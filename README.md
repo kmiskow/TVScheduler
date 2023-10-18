@@ -1,4 +1,4 @@
-# PROI 23L  PlanerTV 
+# TV Scheduler
 
 ## Topic
 
