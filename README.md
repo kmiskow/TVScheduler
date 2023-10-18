@@ -1,20 +1,16 @@
 # PROI 23L  PlanerTV 
 
-## Temat
+## Topic
 
-Celem naszego projektu jest utworzenie biblioteki udostępniającej narzędzia do zarządzania i tworzenia programu telewizyjnego.
-Narzędzia mają umożliwiać łatwe dodawanie nowych programów telewizyjnych oraz nimi zarządzanie, przy okazji pilnując postawionanych wcześniej założeń.
+The objective of our project was to develop a comprehensive library that offers a suite of tools for the management and creation of television channel schedule. These tools are designed to facilitate the seamless addition of new television programs and their effective administration, all while ensuring genre variety, appropriate advertisement and broadcast hours.
 
 ## Zespół PROI czwartek 18:00
 
--Jakub Kowalski gr. 203 <br />
 -Krzysztof Miśków gr. 203 <br />
 -Konrad Jurczyński gr. 208 <br />
 
 ## Podział obowiązków 
 
-- Jakub Kowalski <br />
--- Klasy is funkcje odpowiadające za organizacje programów w czasie <br />
 -Krzysztof Miśków <br />
 -- Klasy i funkcje odpowiadające za klasyfikacje i tworzenie programów <br />
 -Konrad Jurczyński <br />
