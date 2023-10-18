@@ -4,7 +4,7 @@
 
 The objective of our project was to develop a comprehensive library that offers a suite of tools for the management and creation of television channel schedule. These tools are designed to facilitate the seamless addition of new television programs and their effective administration, all while ensuring genre variety, appropriate advertisement and broadcast hours.
 
-## Zespół PROI czwartek 18:00
+## Team
 
 -Krzysztof Miśków <br />
 -Konrad <br />
