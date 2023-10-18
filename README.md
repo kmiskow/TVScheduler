@@ -6,30 +6,33 @@ The objective of our project was to develop a comprehensive library that offers 
 
 ## Zespół PROI czwartek 18:00
 
--Krzysztof Miśków gr. 203 <br />
--Konrad Jurczyński gr. 208 <br />
+-Krzysztof Miśków <br />
+-Konrad <br />
 
-## Podział obowiązków 
+## Responsibilities
 
 -Krzysztof Miśków <br />
--- Klasy i funkcje odpowiadające za klasyfikacje i tworzenie programów <br />
--Konrad Jurczyński <br />
--- Klasy i funkcje odpowiadające za zarządzanie programami
+-- Classes and functions responsible for classification and program creation <br />
+-Konrad  <br />
+-- Classes and functions responsible for program management
 
-## Sposób użycia
+## Usage
 
 - start()
 - add()
 - sort()
 - show()
 
-## Podział Testów:<br />
-- Każdy tworzy testy jednostkowe dla swoich klas i ich metod <br />
+## Tests:<br />
+- Each team member creates unit tests for their classes and methods <br />
 
-## Zapis i odczyt:
-- Zapis i odczyt będzie się odbywać na plikach json
+## Data saving and loading:
+- Data saving and loading will be performed using JSON files
 
-## Klasy
-- Baza programów zwracająca program wg. zadanych parametrów
-- Plan dnia godzinowy
-- Plan tygodnia z zasadami planowania na dany dzień
+## Classes
+- Program database returning programs based on specified parameters
+- Hourly daily schedule
+- Weekly schedule with planning rules for each day
+
+
+
