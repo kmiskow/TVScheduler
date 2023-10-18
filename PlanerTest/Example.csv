@@ -1,0 +1,48 @@
+﻿Reklama,Add_01,1,Food,False,12,,,,
+Game,Game_01,300,Drama,False,12,16000,1,Team 1,Team 2
+Film,Film_01,300,Action,True,18,,,,
+sdafsad,other_01,100,Comedy,True,12,,,,
+Reklama,Add_02,250,Sport,False,8,,,,
+Game,Game_02,300,Food,False,8,16000,3,Team 1,Team 2
+Film,Film_02,350,Drama,True,8,,,,
+sdafsad,other_02,400,Action,True,8,,,,
+Reklama,Add_03,450,Comedy,False,8,,,,
+Game,Game_03,500,Sport,False,10,15000,0,Team 1,Team 2
+Film,Film_03,550,Food,True,10,,,,
+sdafsad,other_03,600,Drama,True,10,,,,
+Reklama,Add_04,650,Action,False,10,,,,
+Game,Game_04,700,Comedy,False,10,12000,4,Team 1,Team 2
+Film,Film_04,750,Sport,True,10,,,,
+sdafsad,other_04,800,Food,True,10,,,,
+Reklama,Add_05,850,Drama,False,10,,,,
+Game,Game_05,900,Action,False,10,1200,2,Team 1,Team 2
+Film,Film_05,950,Comedy,True,21,,,,
+sdafsad,other_05,1000,Sport,True,21,,,,
+Reklama,Add_06,1050,Food,False,21,,,,
+Game,Game_06,1100,Drama,False,21,7000,2,Team 1,Team 2
+Film,Film_06,1150,Action,True,21,,,,
+sdafsad,other_06,1200,Comedy,True,21,,,,
+Reklama,Add_07,1250,Sport,False,21,,,,
+Game,Game_07,1300,Food,False,21,60000,5,Team 1,Team 2
+Film,Film_07,1350,Drama,True,18,,,,
+sdafsad,other_07,1400,Action,True,18,,,,
+Reklama,Add_08,1450,Comedy,False,18,,,,
+Game,Game_08,1500,Sport,False,18,80000,6,Team 1,Team 2
+Film,Film_08,1550,Food,True,18,,,,
+BreakfastShow,Monday,2000,News,True,8,8000,0,weather-interview-cooking-news,Adam Sandler - Terry Crews
+BreakfastShow,Tuesday,2000,News,True,8,9000,1,weather-interview-cooking-news,Iwona Pwalowic - Marek Mostowiak
+BreakfastShow,Wednesday,2000,News,True,8,10000,2,weather-interview-cooking-news,Adam Sandler - Terry Crews
+BreakfastShow,Thursday,2000,News,True,8,11000,3,weather-interview-cooking-news,Iwona Pwalowic - Marek Mostowiak
+BreakfastShow,Friday,2000,News,True,8,12000,4,weather-interview-cooking-news,Adam Sandler - Terry Crews
+BreakfastShow,Saturday,2000,News,True,8,13000,5,weather-interview-cooking-news,Iwona Pwalowic - Marek Mostowiak
+BreakfastShow,Sunday,2000,News,True,8,14000,6,weather-interview-cooking-news,Pan Paweł
+Interlude,Interlude_01,100,Technical,,,,,,
+Interlude,Interlude_02,200,Technical,,,,,,
+Interlude,Interlude_03,300,Technical,,,,,,
+Interlude,Interlude_04,400,Technical,,,,,,
+Interlude,Interlude_05,500,Technical,,,,,,
+Interlude,Interlude_06,600,Technical,,,,,,
+Interlude,Interlude_07,700,Technical,,,,,,
+Interlude,Interlude_08,800,Technical,,,,,,
+Interlude,Interlude_09,900,Technical,,,,,,
+Interlude,Interlude_10,1000,Technical,,,,,,
